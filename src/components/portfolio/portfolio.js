@@ -136,7 +136,7 @@ export default class Portfolio extends Component {
               <span className="categories"><i className="fa fa-tag" /> REST API, Backend</span>
             </div>
             <div className="link-box">
-              <a href="https://github.com/mddanishyusuf/indian-bank-server">Details</a>
+              <a href="https://github.com/shadab14meb346/IndianBankAPIs">Details</a>
               <a className="popup-modal-dismiss">Close</a>
             </div>
           </div>{/* modal-01 End */}
